@@ -1,0 +1,66 @@
+.allcards{
+    display: flex;
+     text-align: center; 
+}
+.card{
+  margin-right:123px ;
+   text-align: center; 
+}
+.select-button{
+    background:#833AE0; 
+}
+.buttons{
+    width: 65.06px;
+    height: 30px;
+   
+
+    background:#C6C6C6; 
+    
+    border-radius: 3px 0px 0px 3px;
+}
+.allbuttons{
+    display: flex;
+
+}
+.valut{
+
+}
+.buttons1{
+    width: 65.06px;
+    height: 30px;
+   
+
+    background:#C6C6C6; 
+    
+    border-radius: 3px 0px 0px 3px;
+} 
+.inputhint{
+    width: 259px;
+    height: 102px;
+    left: 253px; 
+    top: 250px;
+    
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box; 
+    border-radius: 3px;
+}
+.hint{
+    margin-top: 20px;
+    margin-left:10px ;
+
+
+}
+.inputhint1{
+
+    
+    width: 259px;
+    height: 102px;
+    right: 253px;
+    top: 250px;
+    
+    border: 1px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 3px;
+}
+
+
