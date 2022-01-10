@@ -50,17 +50,19 @@
 
 
 }
-.inputhint1{
+.inputhint{
+
+        width: 259px;
+        height: 102px;
+        left: 253px; 
+        top: 250px;
+        
+        border: 1px solid #E5E5E5;
+        box-sizing: border-box; 
+        border-radius: 3px;
+}
 
     
-    width: 259px;
-    height: 102px;
-    right: 253px;
-    top: 250px;
-    
-    border: 1px solid #E5E5E5;
-    box-sizing: border-box;
-    border-radius: 3px;
-}
+
 
 
